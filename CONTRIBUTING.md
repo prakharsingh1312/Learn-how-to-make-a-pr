@@ -38,3 +38,60 @@ Anything about yourself!
 ---
 
 **Link to your profile/web-page/blog** :link:: **Your Website**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
+
+
+
+## Template for contributions :clipboard:
+
+### Introduction :sunglasses:
+
+**Your name**: Ashutosh Dwivedi
+
+**Your college**: Galgotias college of engineering and Technology Greater Noida.
+
+**Your Branch**: Computer science
+
+**Your GitHub id**: [@kindacoder](https://github.com/kindacoder)
+
+**Your location**: New Delhi
+
+### About You :boy:
+
+Anything about yourself!
+
+## Template for contributions :clipboard:
+
+### Introduction :sunglasses:
+
+**Your name**: Ashutosh Dwivedi
+
+**Your college**: Galgotias college of engineering and Technology Greater Noida.
+
+**Your Branch**: Computer science
+
+**Your GitHub id**: [@kindacoder](https://github.com/kindacoder)
+
+**Your location**: New Delhi
+
+### About You :boy:
+
+Anything about yourself!
+
+
+## Template for contributions :clipboard:
+
+### Introduction :sunglasses:
+
+**Your name**: Ashutosh Dwivedi
+
+**Your college**: Galgotias college of engineering and Technology Greater Noida.
+
+**Your Branch**: Computer science
+
+**Your GitHub id**: [@kindacoder](https://github.com/kindacoder)
+
+**Your location**: New Delhi
+
+### About You :boy:
+
+Anything about yourself!
